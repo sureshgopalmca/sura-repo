@@ -9,11 +9,11 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class DriverController {
 
-	/*@Autowired
+	@Autowired
 	private CarRepository carRepository;
 	
 	@GetMapping("/cars")
 	public List<Car> retrieveAllUsers() {
 		return carRepository.findAll();
-	}*/
+	}
 }
