@@ -1,0 +1,1 @@
+insert into car values(10001,'yes',sysdate(),'Diesel','TN45 AC5478','Maruthi',5,4);
